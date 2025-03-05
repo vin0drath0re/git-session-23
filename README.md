@@ -8,7 +8,7 @@
     - [Making branches](#making-branches)
     - [Editing files](#editing-files)
     - [Adding and commiting changes](#adding-and-commiting-changes)
-    - [Pushing changes and submitting a Pull Request](#pushing-changes-and-submitting-a-pull-request)
+    - [Pushing changes and submitting a Pull Request](#pushing-changes-and-submitting-a-pull-request
 
 # Getting Started
 
